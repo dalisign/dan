@@ -1,0 +1,32 @@
+{
+  "name": "amp-boilerplate-gulp-sass-nunjucks",
+  "version": "1.0.0",
+  "description": "Front-end web development AMP boilerplate",
+  "scripts": {
+    "start": "npm install",
+    "yarn": "yarn install",
+    "serve": "gulp"
+  },
+  "author": "claudchan",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/claudchan/amp-boilerplate-gulp-sass-nunjucks.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-amphtml-validator": "^1.0.2",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-inject-string": "^1.1.1",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-purifycss": "^0.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sequence": "^1.0.0",
+    "purifycss": "^1.2.6"
+  }
+}

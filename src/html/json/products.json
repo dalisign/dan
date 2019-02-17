@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "name": "Apple",
+      "stars": "5",
+      "price": "1.99",
+      "img": "img/product1_640x426.jpg",
+      "availability": 1
+    },
+    {
+      "name": "Orange",
+      "stars": "4",
+      "price": "0.99",
+      "img": "img/product2_640x426.jpg",
+      "availability": 1
+    },
+    {
+      "name": "Pear",
+      "stars": "3",
+      "price": "1.50",
+      "img": "img/product3_640x426.jpg",
+      "availability": 1
+    },
+    {
+      "name": "Banana",
+      "stars": "5",
+      "price": "1.50",
+      "img": "img/product4_640x426.jpg",
+      "availability": 1
+    },
+    {
+      "name": "Watermelon",
+      "stars": "5",
+      "price": "4.50",
+      "img": "img/product5_640x408.jpg",
+      "availability": 1
+    }
+  ]
+}
